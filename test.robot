@@ -1,6 +1,5 @@
 *** Settings ***
 Library     Selenium2Library
-
 *** Test Cases ***
 #TEST CASE 1
 Test case 1 : This sing up user in Indee
