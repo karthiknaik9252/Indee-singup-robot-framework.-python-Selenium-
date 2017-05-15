@@ -16,4 +16,3 @@ Test case 1 : This sing up user in Indee
     click element  xpath=//*[@id="__nuxt"]/div[2]/div/div/div/div[1]/div[2]/form/div[13]/button/span
     wait until page contains  WELCOME TO INDEE. LET’S GET STARTED!
     close browser
-
